@@ -48,8 +48,9 @@ Here are some of the exciting projects I've worked on:
 
 I'm always excited to network, collaborate on projects, and learn from fellow data enthusiasts. Feel free to reach out!
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- **Portfolio**: [My Data Portfolio](https://yourportfolio.com)
+- **LinkedIn**: [Srinivas-LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- **Portfolio**: [Srini-Portfolio](https://yourportfolio.com)
+- **Medium**: [Srini-Medium](https://medium.com/@srinivasbarla2000)
 - **Email**: SrinivasBarla2000@example.com
 
 ---
