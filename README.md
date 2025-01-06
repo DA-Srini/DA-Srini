@@ -1,59 +1,66 @@
 # 🌟 Welcome to My Data Journey! 🌟
 
-Hi there! 👋 I'm **Srinivas Barla**, an aspiring **Data Analyst** with a passion for transforming raw data into actionable insights. My goal is to harness the power of data to help drive better decision-making and uncover hidden patterns in the digital world. Let's explore data together! 🚀
+Hi there! 👋 I'm **Srinivas Barla**, a passionate **Data Analyst** dedicated to transforming raw data into actionable insights. My mission is to leverage data to drive informed decision-making and uncover hidden patterns in the digital realm. Let's delve into the world of data together! 🚀
 
 ## 📊 About Me
 
-- 🧠 **Analytical Thinker**: Skilled in breaking down complex problems and deriving data-driven solutions.
-- 🛠️ **Intermediate Data Analysis Skills**: Proficient in tools like Python, SQL, Excel, and Data Visualization.
-- 📈 **Insightful Storyteller**: I create narratives from data, presenting findings through clear and impactful visualizations.
-- 🎓 **Lifelong Learner**: Always eager to learn and improve my data skills. Currently diving deep into Machine Learning and advanced analytics.
+- 🧠 **Analytical Thinker**: Adept at deconstructing complex problems to derive data-driven solutions.
+- 🛠️ **Proficient Data Analysis Skills**: Experienced with tools like Python, SQL, Excel, and Data Visualization.
+- 📈 **Insightful Storyteller**: Crafting compelling narratives from data through clear and impactful visualizations.
+- 🎓 **Lifelong Learner**: Continuously enhancing my data skills, currently exploring Machine Learning and advanced analytics.
 
 ## ⚙️ My Toolbox
-Here's a glimpse of the tools and technologies I use:
 
-| 🛠 Tool        | 🌟 Proficiency |
-| -------------- | ------------- |
-| Python (Pandas, Numpy, Matplotlib) | ⭐⭐⭐⭐ |
-| SQL (PostgreSQL, MySQL)    | ⭐⭐⭐⭐ |
-| Excel (Power Query, VBA)   | ⭐⭐⭐⭐ |
-| Tableau         | ⭐⭐⭐⭐ |
-| Data Cleaning & Wrangling  | ⭐⭐⭐⭐ |
-| Exploratory Data Analysis  | ⭐⭐⭐⭐ |
-| Statistics                 | ⭐⭐⭐⭐ |
-| Machine Learning (Beginner)| ⭐⭐⭐ |
+Here's a glimpse of the tools and technologies I utilize:
+
+| 🛠 Tool                         | 🌟 Proficiency |
+| ------------------------------ | ------------- |
+| Python (Pandas, Numpy, Matplotlib) | ⭐⭐⭐⭐        |
+| SQL (PostgreSQL, MySQL)        | ⭐⭐⭐⭐        |
+| Excel (Power Query, VBA)       | ⭐⭐⭐⭐        |
+| Tableau                        | ⭐⭐⭐⭐        |
+| Data Cleaning & Wrangling      | ⭐⭐⭐⭐        |
+| Exploratory Data Analysis      | ⭐⭐⭐⭐        |
+| Statistics                     | ⭐⭐⭐⭐        |
+| Machine Learning (Intermediate)| ⭐⭐⭐         |
 
 ## 🚀 Projects That I'm Proud Of
 
-Here are some of the exciting projects I've worked on:
+Here are some of my recent projects:
 
-### 1. 📊 **Customer Segmentation Analysis**
-- **Description**: Analyzed customer data to identify key segments based on purchasing behavior.
-- **Tools**: Python, Pandas, Seaborn, Scikit-learn
-- **Outcome**: Segmented customers into clusters that improved marketing strategies by 15%.
+### 1. 📊 **Google Data Analytics Capstone Project**
+- **Description**: Completed a capstone project as part of the Google Data Analytics certification, focusing on data cleaning, analysis, and visualization to solve a real-world business problem.
+- **Tools**: Excell, Power Query, Python, Tableau
+- **Outcome**: Delivered actionable recommendations based on data-driven insights, showcasing end-to-end analytics proficiency.
+- **Blog**: [Unlocking the Power of Data: A Cyclistic Bike-Share Case Study](https://medium.com/@srinivasbarla2000/unlocking-the-power-of-data-a-cyclistic-bike-share-case-study-ddb9e3b9b061)
+- **Repository**: [GoogleCaseStudy](https://github.com/DA-Srini/GoogleCaseStudy)
+- **Tableau Dashboard**: [GoogleCaseStudy Dashboard](https://public.tableau.com/app/profile/srinivas.barla/viz/CYCLISTIC_17336421351400/Dashboard4)
 
-### 2. 📉 **Sales Forecasting Using Time-Series Data**
-- **Description**: Built a predictive model for future sales using historical data.
-- **Tools**: Python, Statsmodels, Excel
-- **Outcome**: Forecast accuracy improved by 20%, helping the company plan inventory better.
+### 2. 📈 **Netflix Data Analysis**
+- **Description**: Conducted an in-depth analysis of Netflix data to uncover trends in user preferences, content performance, and subscription growth.
+- **Tools**: Python, Pandas, Matplotlib, Tableau
+- **Outcome**: Provided insights into the platform’s evolving content strategy, aiding data-driven decision-making for entertainment platforms.
+- **Blog**: [Netflix Data Visualization: Exploring the Global Streaming Leader](https://medium.com/@srinivasbarla2000/netflix-data-visualization-exploring-the-global-streaming-leader-4c3cd8e5577f)
+- **Repository**: [Netflix-Analysis](https://github.com/DA-Srini/Netflix-Analysis)
+- **Tableau Dashboard**: [Netflix Analysis Dashboard](https://public.tableau.com/app/profile/srinivas.barla/viz/Netflix_17352977889580/Geographical2)
 
-### 3. 📈 **Interactive Data Dashboard with Power BI**
-- **Description**: Created a comprehensive dashboard for monitoring business KPIs.
-- **Tools**: Power BI, SQL
-- **Outcome**: Enabled real-time tracking of performance, leading to faster decision-making.
+### 3. 🏋️‍♂️ **Tracking Barbell Exercises**
+- **Description**: Developed a context-aware fitness tracker using wearable sensor data (Meta Motion) to classify barbell exercises, count repetitions, and detect improper form.
+- **Tools**: Python, Scikit-learn, Matplotlib
+- **Outcome**: Built an intelligent digital personal trainer, leveraging machine learning to enhance exercise tracking accuracy and safety.
+- **Blog**: [Wearables to Context-Aware Fitness: Building a Strength Training Tracker](https://medium.com/@srinivasbarla2000/wearables-to-context-aware-fitness-building-a-strength-training-tracker-f5b3093bb0cc)
+- **Repository**: [Tracking Barbell Exercises](https://github.com/DA-Srini/tracking-barbell-exercises/tree/main)
 
 [Explore More Projects](https://github.com/DA-Srini?tab=repositories)
 
 ## 🔗 Let's Connect!
 
-I'm always excited to network, collaborate on projects, and learn from fellow data enthusiasts. Feel free to reach out!
+I'm always eager to network, collaborate on projects, and learn from fellow data enthusiasts. Feel free to reach out!
 
-- **LinkedIn**: [Srinivas-LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- **Portfolio**: [Srini-Portfolio](https://yourportfolio.com)
-- **Medium**: [Srini-Medium](https://medium.com/@srinivasbarla2000)
-- **Email**: SrinivasBarla2000@example.com
+- **LinkedIn**: [Srinivas Barla](https://www.linkedin.com/in/srinivas-barla/)
+- **Medium**: [Srinivas Barla](https://medium.com/@srinivasbarla2000)
+- **Tableau**:  [Srinivas Barla](https://public.tableau.com/app/profile/srinivas.barla/vizzes)
 
 ---
 
 > 🌱 "The world is one big data problem." – Andrew McAfee
-
